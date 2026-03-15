@@ -30,5 +30,5 @@ This repository contains a Tableau workbook and supporting dataset used to explo
 Open **Netflix-Dashboard.png** to view a snapshot of the dashboard.
 
 ## Author
-Bhavya
+Bhavya,
 B.Tech CSE (Data Science)
