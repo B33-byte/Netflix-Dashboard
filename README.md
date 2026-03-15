@@ -9,6 +9,12 @@ This repository contains a Tableau workbook and supporting dataset used to explo
 - Country-wise availability
 - Genre/category insights
 
+## Tools Used
+- Tableau Desktop
+- Microsoft Excel
+- Data Visualization
+- Data Analysis
+
 ## Files in This Repository
 - **Netflix data.twb**: Tableau workbook
 - **Netflix_data.xlsx**: Source dataset
@@ -25,3 +31,4 @@ Open **Netflix-Dashboard.png** to view a snapshot of the dashboard.
 
 ## Author
 Bhavya
+B.Tech CSE (Data Science)
